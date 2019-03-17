@@ -1,0 +1,1 @@
+int e;    	int b=e=30;            System.out.print("b="+b+"c="+e);  
